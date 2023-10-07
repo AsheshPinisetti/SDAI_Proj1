@@ -65,4 +65,5 @@ HTML Templates: Customize the HTML templates in the templates folder to match yo
 - Flask
 - Pillow (PIL)
 - NumPy
+- Tensorflow
 
