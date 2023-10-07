@@ -11,10 +11,11 @@ Before running this application, you need to have the following installed:
 - Flask
 - Pillow (PIL)
 - NumPy
+- Tensorflow
 
 You can install the required Python packages using pip:
 ```
-pip install Flask Pillow numpy
+pip install Flask Pillow numpy tensorflow
 ```
 
 ## Usage
