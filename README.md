@@ -20,7 +20,7 @@ pip install Flask Pillow numpy
 ## Usage
 
 1. Clone this repository to your local machine:
-	git clone https://github.com/[username]/[name of repository]
+	git clone https://github.com/[username]/[repository]
 	cd [name of repository]
 
 2. Create a virtual environment (optional but recommended):
@@ -40,10 +40,10 @@ pip install Flask Pillow numpy
 	```
 5. Run the Flask App
 	```
-	python app.py
+	python webapp.py
 	 ```
 
-	Access the application in your web browser by navigating to http://localhost:5000.
+	Access the application in your web browser by navigating to http://localhost:3000.
 
 	Upload an image and click the "Classify" button to see the classification result.
 
