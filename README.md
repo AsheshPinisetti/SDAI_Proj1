@@ -1,5 +1,5 @@
 # SDAI_Proj1
-###Image Classification Flask Application
+# Image Classification Flask Application
 
 This is a simple Flask web application for image classification using a pre-trained deep learning model. Users can upload an image, and the application will classify it using the pre-trained model and display the results.
 
