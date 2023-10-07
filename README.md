@@ -21,8 +21,8 @@ pip install Flask Pillow numpy
 
 1. Clone this repository to your local machine:
    	```
-	git clone https://github.com/[username]/[repository]
-	cd [name of repository]
+	git clone https://github.com/AsheshPinisetti/SDAI_Proj1.git
+	cd SDAI_Proj1
 	```
 
 3. Create a virtual environment (optional but recommended):
