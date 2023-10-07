@@ -20,10 +20,12 @@ pip install Flask Pillow numpy
 ## Usage
 
 1. Clone this repository to your local machine:
+   	```
 	git clone https://github.com/[username]/[repository]
 	cd [name of repository]
+	```
 
-2. Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
 	```
 	python -m venv venv
 	```
