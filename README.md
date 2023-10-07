@@ -3,7 +3,7 @@
 
 This is a simple Flask web application for image classification using a pre-trained deep learning model. Users can upload an image, and the application will classify it using the pre-trained model and display the results.
 
-##Prerequisites
+## Prerequisites
 
 Before running this application, you need to have the following installed:
 
